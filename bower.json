@@ -1,0 +1,21 @@
+{
+  "name": "wbsdesign",
+  "homepage": "https://github.com/wlidemberg/wbsdesign",
+  "authors": [
+    "wlidemberg <automatizei@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
