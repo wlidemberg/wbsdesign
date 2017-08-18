@@ -1,0 +1,22 @@
+{
+  "name": "wbsdesign",
+  "version": "1.0.0",
+  "description": "\"# wbsdesign\"  git init git add README.md git commit -m \"first commit\" git remote add origin https://github.com/wlidemberg/wbsdesign.git git push -u origin master\r \"# wbsdesign\"  git init git add README.md git commit -m \"first commit\" git remote add origin https://github.com/wlidemberg/wbsdesign.git git push -u origin master\r \"# wbsdesign1\"  git init git add README.md git commit -m \"first commit\" git remote add origin https://github.com/wlidemberg/wbsdesign1.git git push -u origin master",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wlidemberg/wbsdesign.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wlidemberg/wbsdesign/issues"
+  },
+  "homepage": "https://github.com/wlidemberg/wbsdesign#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
